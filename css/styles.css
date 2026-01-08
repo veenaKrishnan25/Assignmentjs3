@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(211, 211, 211, 0.884);
+}
+ul{
+    list-style: none;
+}
+
+.list-item{
+    border: 2px solid orange;
+    padding: 6px;
+    border-radius: 5px;
+    cursor:  pointer;
+    
+}
+
+.selected{
+    text-decoration: line-through;
+    background-color: rgb(247, 219, 61);
+}
